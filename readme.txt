@@ -21,4 +21,6 @@ Yunpeng Wu
 
 
 
-Yunpeng Wu, Yangdong Ye, and Chenyang Zhao. Coherent Motion Detection with Collective Density Clustering. In Proceedings of the 23rd ACM international conference on Multimedia 2015 (MM '15).361-370. 
+Yunpeng Wu, Yangdong Ye, and Chenyang Zhao. Coherent Motion Detection with Collective Density Clustering. In Proceedings of the 23rd ACM international conference on Multimedia 2015. 361-370. 
+
+Yunpeng Wu, Yangdong Ye, Chenyang Zhao, Zenglin Shi: Collective density clustering for coherent motion detection. IEEE Transactions on Multimedia. 20(6):1418-1431 (2018)
